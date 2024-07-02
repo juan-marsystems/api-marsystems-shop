@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\repositories\\articulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repositories\\articulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\repositories\\iarticulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repositories\\iarticulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:45:49.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticulosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\ArticulosRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repositories\\ArticulosRepository.cs",
+              "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\ArticulosRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repositories\\ArticulosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:27:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArticulosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\IArticulosRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repositories\\IArticulosRepository.cs",
+              "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\IArticulosRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repositories\\IArticulosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T23:26:03.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:04:05.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:32:36.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
