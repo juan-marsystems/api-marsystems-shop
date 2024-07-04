@@ -39,3 +39,5 @@ C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\obj\Debug\net8.0\ref
 C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\obj\Debug\net8.0\API-MarketSystems.pdb
 C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\obj\Debug\net8.0\API-MarketSystems.genruntimeconfig.cache
 C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\obj\Debug\net8.0\ref\API-MarketSystems.dll
+C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\obj\Debug\net8.0\API-MarketSystems.sourcelink.json
+C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\bin\Debug\net8.0\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json

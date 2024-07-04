@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ClassLibrary1.models;
+using ClassLibrary1.Models;
 
 namespace ClassLibrary1.Repositories
 {
@@ -19,6 +19,11 @@ namespace ClassLibrary1.Repositories
         public IEnumerable<Articulo> ListarArticulos()
         {
             return _marketSystemsContext.Articulos.ToList();
+        }
+
+        public Articulo ObtenerArticuloPorId(int id)
+        {
+            return _marketSystemsContext.Articulos.FirstOrDefault(u => u.IdArt == id);
         }
     }
 }

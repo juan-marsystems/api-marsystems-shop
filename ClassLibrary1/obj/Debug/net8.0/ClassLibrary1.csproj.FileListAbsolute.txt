@@ -12,3 +12,4 @@ C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\ClassLibrary1\obj\De
 C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
 C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.genruntimeconfig.cache
 C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+C:\Users\Juan Carlos Horta\Documents\.NET\API-MarketSystems\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json

@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
-namespace ClassLibrary1.models;
+namespace ClassLibrary1.Models;
 
 public partial class Detalle
 {
@@ -13,7 +14,9 @@ public partial class Detalle
 
     public int? QuantityDetail { get; set; }
 
+    [JsonIgnore]
     public virtual Articulo? IdArtNavigation { get; set; }
 
+    [JsonIgnore]
     public virtual Carrito? IdCartNavigation { get; set; }
 }

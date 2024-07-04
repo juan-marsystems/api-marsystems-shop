@@ -1,4 +1,4 @@
-using ClassLibrary1.models;
+using ClassLibrary1.Models;
 using ClassLibrary1.Repositories;
 using Microsoft.EntityFrameworkCore;
 using ClassLibrary1.Repositories;
@@ -19,6 +19,9 @@ builder.Services.AddCors(p => p.AddPolicy("corsapp", builder =>
 }));
 builder.Services.AddScoped<IUsuariosRepository, UsuariosRepository>(); 
 builder.Services.AddScoped<IArticulosRepository, ArticulosRepository>();
+builder.Services.AddScoped<ICarritosRepository, CarritosRepository>();
+//builder.Services.AddScoped<IDetallesRepository, DetallesRepository>();
+builder.Services.AddScoped<IOrdenesRepository, OrdenesRepository>();
 
 var app = builder.Build();
 app.UseCors("corsapp");

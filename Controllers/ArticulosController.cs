@@ -22,5 +22,17 @@ namespace API_MarketSystems.Controllers
             var articulos = _articulosRepository.ListarArticulos();
             return Ok(articulos);
         }
+
+        [HttpGet]
+        [Route("obtenerArticuloPorId")]
+        public IActionResult ObtenerArticuloPorId(int id)
+        {
+            var articulo = _articulosRepository.ObtenerArticuloPorId(id);
+            if(articulo == null)
+            {
+                return NotFound();
+            }
+            return Ok(articulo);
+        }
     }
 }

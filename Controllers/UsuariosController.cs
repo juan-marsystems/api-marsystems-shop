@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using ClassLibrary1.models;
+using ClassLibrary1.Models;
 using ClassLibrary1.Repositories;
 
 namespace API_MarketSystems.Controllers

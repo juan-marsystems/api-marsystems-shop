@@ -1,4 +1,4 @@
-﻿using ClassLibrary1.models;
+﻿using ClassLibrary1.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,5 +10,6 @@ namespace ClassLibrary1.Repositories
     public interface IArticulosRepository
     {
         public IEnumerable<Articulo> ListarArticulos();
+        public Articulo ObtenerArticuloPorId (int id);
     }
 }

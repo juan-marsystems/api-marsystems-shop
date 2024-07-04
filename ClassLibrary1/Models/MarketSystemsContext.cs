@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace ClassLibrary1.models;
+namespace ClassLibrary1.Models;
 
 public partial class MarketSystemsContext : DbContext
 {
@@ -59,6 +59,7 @@ public partial class MarketSystemsContext : DbContext
 
             entity.Property(e => e.IdCart).HasColumnName("id_cart");
             entity.Property(e => e.IdUser).HasColumnName("id_user");
+            entity.Property(e => e.StatusCart).HasColumnName("status_cart");
 
             entity.HasOne(d => d.IdUserNavigation).WithMany(p => p.Carritos)
                 .HasForeignKey(d => d.IdUser)
@@ -113,6 +114,8 @@ public partial class MarketSystemsContext : DbContext
             entity.HasKey(e => e.IdUser).HasName("usuarios_pkey");
 
             entity.ToTable("usuarios");
+
+            entity.HasIndex(e => e.EmailUser, "unico_correo").IsUnique();
 
             entity.Property(e => e.IdUser).HasColumnName("id_user");
             entity.Property(e => e.AgeUser).HasColumnName("age_user");
