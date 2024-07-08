@@ -18,7 +18,9 @@ namespace ClassLibrary1.Repositories
 
         public IEnumerable<Articulo> ListarArticulos()
         {
-            return _marketSystemsContext.Articulos.ToList();
+            return _marketSystemsContext.Articulos
+                                .OrderBy(a => a.IdArt)
+                                .ToList();
         }
 
         public Articulo ObtenerArticuloPorId(int id)

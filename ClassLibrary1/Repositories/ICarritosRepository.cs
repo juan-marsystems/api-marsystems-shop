@@ -14,5 +14,6 @@ namespace ClassLibrary1.Repositories
         public Carrito InsertarCarrito(int? userId, List<DetalleRequest> detalles);
         public bool EliminarCarrito(int userId);
         public bool EditarCarrito(CarritoRequest carritoRequest);
+        public bool EliminarProductoPorId(int userId, int artId);
     }
 }

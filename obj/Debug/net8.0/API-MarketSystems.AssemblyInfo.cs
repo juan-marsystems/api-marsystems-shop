@@ -14,7 +14,7 @@ using System.Reflection;
 /*[assembly: System.Reflection.AssemblyCompanyAttribute("API-MarketSystems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+933b7eb81ec53879808787a0358d5b81d5055ba8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bc8d7843638eac5ae2db003f36c6327a95cc57c")]
 [assembly: System.Reflection.AssemblyProductAttribute("API-MarketSystems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API-MarketSystems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]*/

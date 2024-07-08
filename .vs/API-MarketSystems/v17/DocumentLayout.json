@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\dto\\detallerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\dto\\detallerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\dto\\carritorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|solutionrelative:classlibrary1\\dto\\carritorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\repositories\\carritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repositories\\carritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\controllers\\carritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|solutionrelative:controllers\\carritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\repositories\\carritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repositories\\carritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\repositories\\icarritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repositories\\icarritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\dto\\detallerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\dto\\detallerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\dto\\carritorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\dto\\carritorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C463B3-C8B0-4F83-A8F2-9F1A3003D0E0}|API-MarketSystems.csproj|solutionrelative:controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\repositories\\ordenesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repositories\\ordenesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan carlos horta\\documents\\.net\\api-marketsystems\\classlibrary1\\repositories\\articulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8655DB-A0F0-4BB3-BBD6-C4CEEFA71DCC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\repositories\\articulosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +42,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "OrdenesController.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Controllers\\OrdenesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdenesController.cs",
+              "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Controllers\\OrdenesController.cs",
+              "RelativeToolTip": "Controllers\\OrdenesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:11:03.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdenesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\OrdenesRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repositories\\OrdenesRepository.cs",
+              "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\OrdenesRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repositories\\OrdenesRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:01:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticulosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\ArticulosRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Repositories\\ArticulosRepository.cs",
+              "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\ArticulosRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Repositories\\ArticulosRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:58:28.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DetalleRequest.cs",
               "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\DTO\\DetalleRequest.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\DTO\\DetalleRequest.cs",
               "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\DTO\\DetalleRequest.cs",
               "RelativeToolTip": "ClassLibrary1\\DTO\\DetalleRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T23:36:38.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T23:36:38.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CarritoRequest.cs",
               "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\DTO\\CarritoRequest.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\DTO\\CarritoRequest.cs",
@@ -55,44 +102,42 @@
               "RelativeToolTip": "ClassLibrary1\\DTO\\CarritoRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T23:26:36.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T23:26:36.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CarritosController.cs",
               "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Controllers\\CarritosController.cs",
               "RelativeDocumentMoniker": "Controllers\\CarritosController.cs",
               "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\Controllers\\CarritosController.cs",
               "RelativeToolTip": "Controllers\\CarritosController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA2wCEAAABGAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwDwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T22:15:02.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T22:15:02.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CarritosRepository.cs",
               "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\CarritosRepository.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Repositories\\CarritosRepository.cs",
               "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\CarritosRepository.cs",
               "RelativeToolTip": "ClassLibrary1\\Repositories\\CarritosRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAqwOQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T22:14:56.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ICarritosRepository.cs",
               "DocumentMoniker": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\ICarritosRepository.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Repositories\\ICarritosRepository.cs",
               "ToolTip": "C:\\Users\\Juan Carlos Horta\\Documents\\.NET\\API-MarketSystems\\ClassLibrary1\\Repositories\\ICarritosRepository.cs",
               "RelativeToolTip": "ClassLibrary1\\Repositories\\ICarritosRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAjwA8AAAAiAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T22:14:53.583Z"
             }

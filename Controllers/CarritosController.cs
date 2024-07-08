@@ -53,6 +53,18 @@ namespace API_MarketSystems.Controllers
             return Ok("Carrito eliminado");
         }
 
+        [HttpDelete]
+        [Route("eliminarProductoPorId")]
+        public IActionResult EliminarProductoPorId(int userId, int artId)
+        {
+            var exito = _carritosRepository.EliminarProductoPorId(userId, artId);
+            if (!exito)
+            {
+                return BadRequest("No se pudo eliminar el producto del carrito");
+            }
+            return Ok("Producto eliminado del carrito");
+        }
+
         [HttpPut]
         [Route("editarCarrito")]
         public IActionResult EditarCarrito([FromBody] CarritoRequest carritoRequest)

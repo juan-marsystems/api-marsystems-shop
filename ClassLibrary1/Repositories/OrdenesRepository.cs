@@ -80,23 +80,26 @@ namespace ClassLibrary1.Repositories
         public IEnumerable<OrdenUsuario> ListarOrdenesPorUser(int userId)
         {
             var ordenes = _marketSystemsContext.Ordenes
-                .Where(o => o.IdUser == userId)
-                .Select(o => new OrdenUsuario
-                {
-                    NumeroOrden = o.IdOrder,
-                    FechaOrden = o.DateOrder,
-                    TotalOrden = o.TotalOrder,
-                    NumeroCarrito = o.IdCart,
-                    Articulos = _marketSystemsContext.Detalles
-                        .Where(d => d.IdCart == o.IdCart)
-                        .Select(d => new ArticuloCarrito
-                        {
-                            Nombre = d.IdArtNavigation.NameArt,
-                            Cantidad = d.QuantityDetail,
-                            Precio = d.IdArtNavigation.PriceArt
-                        }).ToList()
-                })
-                .ToList();
+            .Where(o => o.IdUser == userId)
+            .OrderBy(o => o.DateOrder)  // Ordena por fecha de orden si es necesario
+            .ToList()
+            .Select((o, index) => new OrdenUsuario
+            {
+                NumeroOrden = index + 1, // Contador de ordenes por usuario
+                FechaOrden = o.DateOrder,
+                TotalOrden = o.TotalOrder,
+                NumeroCarrito = o.IdCart,
+                Articulos = _marketSystemsContext.Detalles
+                    .Where(d => d.IdCart == o.IdCart)
+                    .Select(d => new ArticuloCarrito
+                    {
+                        Nombre = d.IdArtNavigation.NameArt,
+                        Cantidad = d.QuantityDetail,
+                        Precio = d.IdArtNavigation.PriceArt
+                    }).ToList()
+            })
+            .ToList();
+
             return ordenes;
         }
     }
